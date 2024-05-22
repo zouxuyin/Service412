@@ -30,11 +30,4 @@
 
 + 使用后台管理添加岗位时，要确保有招聘者和该岗位的公司进行绑定，否则getJobList接口查询不到新增的岗位
 
-## 开源不易 谢谢支持
-
-![](https://raw.githubusercontent.com/zhang2657977442/MyPicGo/master/other/%E8%B5%9E%E8%B5%8F%E7%A0%81.jpg)
-
-如有问题请联系
-+ QQ：2657977449 
-+ 微信：zhang2657977449
 
